@@ -28,7 +28,7 @@
 - [TBD (Block)](<https://developer.tbd.website/learn/discussions/decentralized-identity/>)
 - [Trinsic](<https://trinsic.id/>)
 - [Spruce](<https://spruceid.com/>)
-- [Polygon ID](<https://spruceid.com/>)
+- [Polygon ID](<https://polygon.technology/polygon-id>)
 
 #### SaaS Products for Digital Trust
 
