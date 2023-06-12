@@ -32,6 +32,7 @@
 
 #### SaaS Products for Digital Trust
 
+- [CGI SecureDataFabric](<https://www.cgi.com/us/en-us/federal/secure-data-fabric>)
 - [Transmute](<https://transmute.industries/>)
 
 #### [Hyperledger](<https://www.hyperledger.org/>) Identity Stack
