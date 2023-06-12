@@ -24,7 +24,7 @@
 
 #### SaaS Products for Digital Identity
 
-- [Microsoft Entra Verified ID](<https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id>)
+- [Microsoft Entra: Verified ID](<https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id>)
 - [TBD (Block)](<https://developer.tbd.website/learn/discussions/decentralized-identity/>)
 - [Trinsic](<https://trinsic.id/>)
 - [Spruce](<https://spruceid.com/>)
@@ -32,8 +32,8 @@
 
 #### SaaS Products for Digital Trust
 
-- [CGI SecureDataFabric](<https://www.cgi.com/us/en-us/federal/secure-data-fabric>)
-- [Transmute](<https://transmute.industries/>)
+- [CGI: SecureDataFabric](<https://www.cgi.com/us/en-us/federal/secure-data-fabric>)
+- [Transmute: Verifiable Data Platform](<https://transmute.industries/>)
 
 #### [Hyperledger](<https://www.hyperledger.org/>) Identity Stack
 
