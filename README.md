@@ -4,15 +4,15 @@
 
 ### An introduction to Self-Sovereign Identity, Decentralized Identifiers & Verifiable Credentials
 
-#### Presentation Views
+#### Presentation
 
+- [Video](<https://youtu.be/YRmwQNmLbLQ>)
 - [PDF Download](<https://raw.githubusercontent.com/htcarr3/digital-identity-brr2023/main/digital-identity-brr2023.pdf>)
 - [Github Pages](<https://htcarr3.github.io/digital-identity-brr2023/>)
 
 #### Personal Links
 
 - [Verdafy: Ruby Tools for SSI](<https://verdafy.com>)
-- [Verified Rubyist Demo (Microsoft Entra Verified ID)](<https://verdafy.com/brr>)
 - [CGI Presentation on Digital Trust](<https://vimeo.com/833777106/e4c82c9e34>)
 
 #### Dive Deeper
