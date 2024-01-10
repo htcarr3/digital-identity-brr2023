@@ -14,7 +14,7 @@
 
 - [Verdafy: Ruby Tools for SSI](<https://verdafy.com>)
 - [CGI Presentation on Digital Trust](<https://vimeo.com/833777106/e4c82c9e34>)
-
+- [Podcast Interview w/ Drew Bragg](<https://podcast.drbragg.dev/episodes/episode-26-thomas-carr/>)
 #### Dive Deeper
 
 - [W3C Verifiable Credentials](<https://www.w3.org/TR/vc-data-model/>)
